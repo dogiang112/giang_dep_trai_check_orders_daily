@@ -532,6 +532,10 @@ const FIXED_PRODUCT_GROUPS = {
   "(25) Tam_Thất_Bắc   :":["5eb99318-6623-42ca-afb6-859ecbe6395e"],
   "(26) Trầu_Bà        :":["610f2e28-eb90-4e1b-95f8-fc1b1bacec9c", "2a0d217a-94b6-469d-b222-859b3c3b61b3"],
   "(28) Vạn_tuế        :":["327efe46-126d-4fa4-9c9f-7566979a9879"],
+  "(33) Lông_vũ        :":["2738fd1d-efde-4bd5-8640-c1e002021b17"],
+  "(31) Cúc_lá_nhám    :":["eecfc2cb-b28c-478b-b432-7e554f44da16"],
+  "(27) Cát_Lòi_Khô    :":["2b77199e-eaca-49fd-b7ce-99fdccb85643"],
+  "(34) Chuối_Hoàng_yến:":["bcf58826-80b8-46ef-b55e-37d201ac903a"],
 };
 
 function loadFixedGroups() {
